@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-praktika-tasks/static/css/main.7acaea2f.css",
-    "main.js": "/react-praktika-tasks/static/js/main.07d3183d.js",
+    "main.css": "/react-praktika-tasks/static/css/main.dbfa89b1.css",
+    "main.js": "/react-praktika-tasks/static/js/main.fa340570.js",
     "index.html": "/react-praktika-tasks/index.html",
-    "main.7acaea2f.css.map": "/react-praktika-tasks/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-praktika-tasks/static/js/main.07d3183d.js.map"
+    "main.dbfa89b1.css.map": "/react-praktika-tasks/static/css/main.dbfa89b1.css.map",
+    "main.fa340570.js.map": "/react-praktika-tasks/static/js/main.fa340570.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.dbfa89b1.css",
+    "static/js/main.fa340570.js"
   ]
 }
