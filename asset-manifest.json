@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-praktika-tasks/static/css/main.dbfa89b1.css",
-    "main.js": "/react-praktika-tasks/static/js/main.fa340570.js",
+    "main.js": "/react-praktika-tasks/static/js/main.fdabfa56.js",
     "index.html": "/react-praktika-tasks/index.html",
     "main.dbfa89b1.css.map": "/react-praktika-tasks/static/css/main.dbfa89b1.css.map",
-    "main.fa340570.js.map": "/react-praktika-tasks/static/js/main.fa340570.js.map"
+    "main.fdabfa56.js.map": "/react-praktika-tasks/static/js/main.fdabfa56.js.map"
   },
   "entrypoints": [
     "static/css/main.dbfa89b1.css",
-    "static/js/main.fa340570.js"
+    "static/js/main.fdabfa56.js"
   ]
 }
